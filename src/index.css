@@ -32,6 +32,11 @@ header {
   margin-bottom: 30px;
 }
 
+.logo{
+  text-decoration: none;
+  color: #ff6a95;
+}
+
 .card {
   background-color: #fff;
   color: #333;
