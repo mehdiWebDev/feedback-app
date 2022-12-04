@@ -21,7 +21,7 @@ const RatingSelect = ({select}) => {
 
         select(selected)
 
-    },[selected] )
+    },[selected,select] )
 
     return (
         <ul className='rating'>
